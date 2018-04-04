@@ -1,0 +1,36 @@
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.deps.json
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.AssemblyInfo.cs
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.deps.json
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.AssemblyInfo.cs
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\inetpub\ClassLib\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.deps.json
+C:\inetpub\ClassLib\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\inetpub\ClassLib\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\inetpub\ClassLib\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.csprojResolveAssemblyReference.cache
+C:\inetpub\ClassLib\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.csproj.CoreCompileInputs.cache
+C:\inetpub\ClassLib\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.AssemblyInfoInputs.cache
+C:\inetpub\ClassLib\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.AssemblyInfo.cs
+C:\inetpub\ClassLib\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\inetpub\ClassLib\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.deps.json
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerClassLibrary\bin\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.AssemblyInfoInputs.cache
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.AssemblyInfo.cs
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerClassLibrary\obj\Debug\netcoreapp2.0\CustomerClassLibrary.csprojResolveAssemblyReference.cache

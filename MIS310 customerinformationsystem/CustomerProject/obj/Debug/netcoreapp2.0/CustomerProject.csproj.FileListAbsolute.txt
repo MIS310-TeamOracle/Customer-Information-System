@@ -1,0 +1,52 @@
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.deps.json
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.runtimeconfig.json
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.runtimeconfig.dev.json
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.dll
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.pdb
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.AssemblyInfo.cs
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.dll
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.pdb
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\inetpub\wwwroot\CustomerInformationSystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.deps.json
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.runtimeconfig.json
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.runtimeconfig.dev.json
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.dll
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.pdb
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\bin\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\bin\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.csprojResolveAssemblyReference.cache
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.csproj.CoreCompileInputs.cache
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.AssemblyInfoInputs.cache
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.AssemblyInfo.cs
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.dll
+C:\Users\phun\Desktop\Doc\Assignment 4\Proj\Proj\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.pdb
+C:\inetpub\ClassLib\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.deps.json
+C:\inetpub\ClassLib\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.runtimeconfig.json
+C:\inetpub\ClassLib\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.runtimeconfig.dev.json
+C:\inetpub\ClassLib\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.dll
+C:\inetpub\ClassLib\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.pdb
+C:\inetpub\ClassLib\CustomerProject\bin\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\inetpub\ClassLib\CustomerProject\bin\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\inetpub\ClassLib\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.csprojResolveAssemblyReference.cache
+C:\inetpub\ClassLib\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.csproj.CoreCompileInputs.cache
+C:\inetpub\ClassLib\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.AssemblyInfoInputs.cache
+C:\inetpub\ClassLib\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.AssemblyInfo.cs
+C:\inetpub\ClassLib\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.dll
+C:\inetpub\ClassLib\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.pdb
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.deps.json
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.runtimeconfig.json
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.runtimeconfig.dev.json
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.dll
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerProject.pdb
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerClassLibrary.dll
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\bin\Debug\netcoreapp2.0\CustomerClassLibrary.pdb
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.csprojResolveAssemblyReference.cache
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.csproj.CoreCompileInputs.cache
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.AssemblyInfoInputs.cache
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.AssemblyInfo.cs
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.dll
+C:\Users\EOne\source\repos\MIS310 customerinformationsystem\CustomerProject\obj\Debug\netcoreapp2.0\CustomerProject.pdb
